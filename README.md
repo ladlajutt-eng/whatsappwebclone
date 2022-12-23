@@ -1,2 +1,1 @@
-# whatsappwebclone
-This is my Whatsapp Web Clone.
+# Simple-WhatsApp-clone
